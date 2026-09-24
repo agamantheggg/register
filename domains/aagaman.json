@@ -4,6 +4,6 @@
     "email": "aagaman.pokhrel107@gmail.com"
   },
   "records": {
-    "CNAME":  "aagamanpokhrel.netlify.app"
+    "A": ["75.2.60.5"]
   }
 }
